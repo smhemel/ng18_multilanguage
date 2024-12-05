@@ -1,0 +1,27 @@
+{
+    "navbar": {
+        "home": "Accueil",
+        "about": "À propos",
+        "contact": "Contact"
+    },
+    "home": {
+        "clothing": {
+            "title": "Vêtements",
+            "description": "Les vêtements sont la catégorie la plus populaire du commerce électronique, avec 43 % des consommateurs achetant des articles en ligne."
+        },
+        "electronics": {
+            "title": "Électronique",
+            "description": "Les ordinateurs portables et les téléphones mobiles sont la 3e plus grande catégorie de commerce électronique, avec 25 % des consommateurs achetant sur le marché."
+        },
+        "cosmeticsBodyCare": {
+            "title": "Cosmétiques et Soins Corporels",
+            "description": "Les cosmétiques et les soins corporels représentent la 5e catégorie la plus importante du commerce électronique."
+        },
+        "learnMore": "En savoir plus"
+    },
+    "about": {
+        "title": "À propos de Nodejs Tuts",
+        "content": "Bienvenue dans ce dépôt ! Ici, je pratique la fonctionnalité multilingue en utilisant ngx-translate.",
+        "buttonText": "Contactez-nous"
+    }
+}

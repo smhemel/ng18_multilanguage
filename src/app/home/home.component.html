@@ -1,0 +1,16 @@
+<div class="container px-4 py-5 mx-auto">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @for (card of cards; track $index) {
+            <div class="col">
+                <div class="card h-100 border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                    <img class="card-imag-top" [src]="card.image" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title mb-3">{{ card.category | translate}}</h5>
+                        <p class="card-text mb-3">{{ card.description | translate }}</p>
+                        <a href="#" class="btn btn-success btn-lg">{{ 'home.learnMore' | translate}}</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

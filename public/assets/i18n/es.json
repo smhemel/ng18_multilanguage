@@ -1,0 +1,27 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "contact": "Contacto"
+    },
+    "home": {
+        "clothing": {
+            "title": "Ropa",
+            "description": "La ropa es la categoría más popular del comercio electrónico, con un 43% de los consumidores comprando prendas en línea."
+        },
+        "electronics": {
+            "title": "Electrónica",
+            "description": "Los portátiles y los móviles son la 3ª categoría más grande del comercio electrónico, con un 25% de consumidores comprando en el mercado."
+        },
+        "cosmeticsBodyCare": {
+            "title": "Cosmética y Cuidado Corporal",
+            "description": "Los productos de cosmética y cuidado corporal son la 5ª categoría más grande del comercio electrónico."
+        },
+        "learnMore": "Saber más"
+    },
+    "about": {
+        "title": "Acerca de Nodejs Tuts",
+        "content": "¡Bienvenido a este repositorio! Aquí practico la funcionalidad multilingüe utilizando ngx-translate.",
+        "buttonText": "Contáctenos"
+    }
+}

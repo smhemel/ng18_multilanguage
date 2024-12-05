@@ -1,0 +1,27 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "about",
+        "contact": "Contact"
+    },
+    "home": {
+        "clothing": {
+            "title": "Clothing",
+            "description": "Clothing is the top ecommerce caterogy, with 43% of consumers purchasing clothing items online."
+        },
+        "electronics": {
+            "title": "Electronics",
+            "description": "Laptops and Mobile is the 3th largest ecommerce category, with 25% of consumers purchasing from market." 
+        },
+        "cosmeticsBodyCare": {
+            "title": "Cosmetics & Body Care",
+            "description": "Cosmetics and body care products are the 5th largest ecommerce category."
+        },
+        "learnMore": "Learn More"
+    },
+    "about": {
+        "title": "About Nodejs Tuts",
+        "content": "Welcome to this Repository! Here, I practice Multi Language functionality using ngx-translate",
+        "buttonText": "Contact Us"
+    }
+}
